@@ -87,7 +87,7 @@ const sadhique = {
 
 ### 🧠 LeetCode Journey
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/sadhiqueck?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/sadhique?theme=dark&font=Nunito&ext=contest" alt="LeetCode Stats"/>
 </div>
 
 ---
