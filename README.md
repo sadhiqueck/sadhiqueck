@@ -1,4 +1,4 @@
-# Hey there! 👋 I'm Sadhique Ali
+# Hey there! 👋 I'm Sadhique
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;BCA+Graduate;Always+Learning+New+Tech;Code+%7C+Create+%7C+Innovate" alt="Typing SVG" />
